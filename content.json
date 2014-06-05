@@ -27,13 +27,26 @@
             "taalproblemen": {
                 "selectedChoices": {}
             },
-            "puberteitprepuberteit": {},
-            "insulineschema": {}
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Insulinepomp"
+            },
+            "datum_van_de_meest_recente_consultatie": "Tue Dec 31 2013 00:00:00 GMT+0100 (CET)",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
         },
         "metingen": {
-            "lengte": {},
-            "gewicht": {},
-            "bloeddruk": {},
+            "lengte": {
+                "lengte_cm": 120
+            },
+            "gewicht": {
+                "gewicht_kg": 300
+            },
+            "bloeddruk": {
+                "systolische_bloeddruk_mmhg": 120,
+                "diastolische_bloeddruk_mmhg": 100
+            },
             "hba1c": {}
         },
         "screenings": {
